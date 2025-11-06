@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="el">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/jpeg" href="/IMG_0725.jpeg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Bakero Barbershop στη Ξάνθη - Η αυθεντική τέχνη της ανδρικής περιποίησης. Κούρεμα, ξύρισμα, περιποίηση γενειάδας με 15+ χρόνια εμπειρίας. Κλείστε ραντεβού online." />
+    <meta name="keywords" content="κουρείο Ξάνθη, barbershop Ξάνθη, κούρεμα, ξύρισμα, γενειάδα, Bakero Barbershop" />
+    <meta name="author" content="Bakero Barbershop" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Bakero Barbershop - Ξάνθη | Ανδρική Περιποίηση" />
+    <meta property="og:description" content="Εδώ που το ξύρισμα είναι τελετουργία κι ένα καλό κούρεμα λέει πολλά πριν καν μιλήσεις. 15+ χρόνια εμπειρίας στην ανδρική περιποίηση." />
+    <meta property="og:image" content="/IMG_0725.jpeg" />
+    <meta property="og:locale" content="el_GR" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Bakero Barbershop - Ξάνθη" />
+    <meta name="twitter:description" content="Η αυθεντική τέχνη της ανδρικής περιποίησης στη Ξάνθη" />
+    <meta name="twitter:image" content="/IMG_0725.jpeg" />
+
+    <meta name="theme-color" content="#443627" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Bodoni:wght@400;700&display=swap" rel="stylesheet" />
+
+    <title>Bakero Barbershop - Ξάνθη | Ανδρική Περιποίηση & Κούρεμα</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
